@@ -5,3 +5,4 @@ Hello online vscode. I am testing.
 All good and code push from github account
 Now pushing from online without pull
 
+now I am use terminal in web
